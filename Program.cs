@@ -194,7 +194,7 @@ namespace Topic_5___If_Statements_Assignments
             }
             if (count ==0)
             {
-                Console.WriteLine("Wow your terrible, just give up. Not even a single question right.");
+                Console.WriteLine("Wow your terrible, just give up. Not even a single question right.0%.");
             }
 
 
